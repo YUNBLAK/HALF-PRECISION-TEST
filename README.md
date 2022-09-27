@@ -17,3 +17,9 @@
 ### PRECISION CONTROL
 
     nvcc main.cu -DFP16 -o main -gencode arch=compute_75,code=[sm_75,compute_75]
+
+
+### HALF-PRECISION ARITHMETICS FUNCTIONS
+
+[CUDA WEBSITE](https://docs.nvidia.com/cuda/cuda-math-api/group__CUDA__MATH____HALF__ARITHMETIC.html#group__CUDA__MATH____HALF__ARITHMETIC)    
+
