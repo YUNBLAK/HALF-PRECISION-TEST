@@ -23,3 +23,4 @@
 
 [CUDA WEBSITE](https://docs.nvidia.com/cuda/cuda-math-api/group__CUDA__MATH____HALF__ARITHMETIC.html#group__CUDA__MATH____HALF__ARITHMETIC)    
 
+### Taylor Exponential Experiment with CUDA
