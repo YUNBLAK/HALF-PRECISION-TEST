@@ -1,6 +1,13 @@
 # HALF-PRECISION-TEST
 ## HALF-PRECISION-TEST
 
+### BASHRC
+
+    export PATH=/usr/local/cuda-11.7/bin:$PATH
+    export LD_LIBRARY_PATH=/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH
+    export LD_LIBRARY_PATH=/usr/local/cuda-11.7/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+
+
 ### *Words
     
     BlockIdx  : Inherent Group including Threads
